@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 from IPython.display import display, HTML
 from ipywidgets import interact_manual,interact, widgets
 from ipywidgets import AppLayout, Button, Layout
-api_key = '2RJWVY59T9OZRJ18'
+api_key = '' #Enter API key here
 
 # Functions
 def get_stock_data(Stock):
